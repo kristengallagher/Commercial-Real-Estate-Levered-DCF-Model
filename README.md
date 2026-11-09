@@ -176,9 +176,9 @@ Offer Price = MIN(95% of Unlevered PV, Acquisition Price)
 
 #### Commercial_Real_Estate_DCF_Model.xlsx
 
-1. **Property** — Property address, zoning, rental rates, annual income calculations
-2. **Data** — Market assumptions, financing terms, cap rates, holding period, expense assumptions
-3. **CF Projections** — 5-year operating income, expenses, NOI, debt service, and exit analysis
+1. **Property** - Property address, zoning, rental rates, annual income calculations
+2. **Data** - Market assumptions, financing terms, cap rates, holding period, expense assumptions
+3. **CF Projections** - 5-year operating income, expenses, NOI, debt service, and exit analysis
 
 | Metric | Value |
 |---|---|
@@ -202,8 +202,8 @@ Offer Price = MIN(95% of Unlevered PV, Acquisition Price)
 
 The model calculates returns across **two scenarios:**
 
-1. **Unlevered** — Assumes 100% equity financing (no debt); represents property-level returns
-2. **Levered** — Assumes 75% LTV debt; represents equity investor returns after debt service & payoff
+1. **Unlevered** - Assumes 100% equity financing (no debt); represents property-level returns
+2. **Levered** - Assumes 75% LTV debt; represents equity investor returns after debt service & payoff
 
 Levered returns are higher if DSCR > 1.0x (leverage is accretive). If DSCR < 1.0x, property generates negative cash flow and leverage destroys returns.
 
@@ -213,36 +213,36 @@ Levered returns are higher if DSCR > 1.0x (leverage is accretive). If DSCR < 1.0
 
 ## Sources
 
-1. **Apartment List** — Phoenix, AZ Rental Market Data (2023-2024)
+1. **Apartment List** - Phoenix, AZ Rental Market Data (2023-2024)
    - https://www.renthop.com/average-rent-in/phoenix-az
 
-2. **KTAR News** — Maricopa County Tax Rate Cut (January 2023)
+2. **KTAR News** - Maricopa County Tax Rate Cut (January 2023)
 
-3. **Forbes Advisor** — Commercial Mortgage Rates (2023)
+3. **Forbes Advisor** - Commercial Mortgage Rates (2023)
 
-4. **Bureau of Labor Statistics** — U.S. Inflation Rate (December 2023): 2.71%
+4. **Bureau of Labor Statistics** - U.S. Inflation Rate (December 2023): 2.71%
 
-5. **City of Phoenix Planning & Development** — R1-8 Zoning District Regulations
+5. **City of Phoenix Planning & Development** - R1-8 Zoning District Regulations
    - https://www.phoenix.gov/pddsite/Documents/PZ/pdd_pz_pdf_00284.pdf
 
-6. **Phoenix Municipal Code** — Zoning Ordinance §612
+6. **Phoenix Municipal Code** - Zoning Ordinance §612
    - https://phoenix.municipal.codes/ZO/612
 
-7. **National Association of Realtors** — Impact of Retail on Surrounding Property Values
+7. **National Association of Realtors** - Impact of Retail on Surrounding Property Values
 
-8. **Journal of the American Heart Association** — Walkability & Cardiovascular Disease Risk
+8. **Journal of the American Heart Association** - Walkability & Cardiovascular Disease Risk
    - https://www.ahajournals.org/doi/10.1161/JAHA.119.013146
 
-9. **PropertyShark** — Phoenix Commercial Lease Rates (Maricopa County)
+9. **PropertyShark** - Phoenix Commercial Lease Rates (Maricopa County)
    - https://www.propertyshark.com/cre/commercial-real-estate/us/az/maricopa-county/
 
-10. **MarketWatch** — Arizona Homeowners Insurance Costs
+10. **MarketWatch** - Arizona Homeowners Insurance Costs
     - https://www.marketwatch.com/guides/insurance-services/homeowners-insurance-arizona/
 
-11. **Common Sense Institute Arizona** — Arizona Inflation Reports
+11. **Common Sense Institute Arizona** - Arizona Inflation Reports
     - https://commonsenseinstituteaz.org/research-issues/inflation-reports/
 
-12. **UtilitiesOne** — Impact of Retail & Commercial Development on Residential Neighborhoods
+12. **UtilitiesOne** - Impact of Retail & Commercial Development on Residential Neighborhoods
     - https://utilitiesone.com/the-impact-of-retail-and-commercial-developments-on-residential-neighborhoods
       
 ## Disclaimer
